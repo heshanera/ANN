@@ -19,4 +19,4 @@ Main.o: Main.cpp
 	g++ -c Main.cpp	
 
 clean: 
-	rm *.o Main Train	
+	rm *.o	
